@@ -1,0 +1,20 @@
+##spring.application.name=lakeSide-hotel
+#server:
+#  port: 9192
+#
+#spring:
+#  datasource:
+#    username: root
+#    password: Alwyn@123
+#    url: jdbc:mysql://localhost:3307/lakeSide_hotel_db2
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#      format_sql: true
+#  servlet:
+#    multipart:
+#    max-file-size: 10MB
+#    max-request-size: 10MB
+#    file-size-threshold: 2KB
